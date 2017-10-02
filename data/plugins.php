@@ -505,4 +505,16 @@ Budget planning based on sub-task time tracking:
         'remote_install' => true,
         'compatible_version' => '>=1.0.34',
     ],
+    'comment-tooltip' => [
+        'title' => 'Comment tooltip',
+        'version' => '1.0.0',
+        'author' => 'Enrico Frigo',
+        'license' => 'MIT',
+        'description' => 'Show task comments as tooltip',
+        'homepage' => 'https://github.com/enricofrigo/kanboard/tree/master/plugin-comment-tooltip/CommentTooltip',
+        'readme' => 'https://github.com/enricofrigo/kanboard/tree/master/plugin-comment-tooltip/CommentTooltip/README.md',
+        'download' => 'https://github.com/enricofrigo/kanboard/blob/master/plugin-comment-tooltip/releases/download/v1.0.0/CommentTooltip.zip',
+        'remote_install' => false,
+        'compatible_version' => '>=1.0.38',
+    ],
 ];
